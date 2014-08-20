@@ -21,7 +21,7 @@ Button btn;
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				Toast.makeText(getApplication(), "clicked", Toast.LENGTH_LONG).show();
+				Toast.makeText(getApplication(), " button is clicked", Toast.LENGTH_LONG).show();
 			}
 		});
     }
